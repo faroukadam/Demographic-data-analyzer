@@ -28,7 +28,7 @@ This project analyzes the Adult Income dataset from the UCI Machine Learning Rep
 ### 1. 📚 Race Distribution
 
 Shows distribution of Race
-![Education vs Income](image3.png)
+![Race Distribution](image3.png)
 
 ---
 
@@ -36,23 +36,20 @@ Shows distribution of Race
 
 Shows distribution of income brackets across different education levels.
 
-![Education vs Income](education_income.png)
+![Education vs Income](image1.png)
 
 ---
 
-### 2. 🌍 Top High income earners by Nationalities (Percentage)
-
-Displays the top 10 Nationalities with the highest percentage of people earning more than $50K (filtered to exclude small sample sizes).
-
-![Richest Countries](images/richest_countries.png)
+![Education vs Income](image2.png)
 
 ---
+
 
 ### 3. 👔 Popular Occupations for High Earners
 
 Identifies the most common jobs among those who earn more than $50K.
 
-![Top Occupations](images/top_occupations.png)
+![Top Occupations](image4.png)
 
 ---
 
