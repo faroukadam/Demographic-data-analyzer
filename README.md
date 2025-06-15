@@ -25,11 +25,18 @@ This project analyzes the Adult Income dataset from the UCI Machine Learning Rep
 
 ## 📈 Visualizations
 
-### 1. 📚 Education Level vs Income
+### 1. 📚 Race Distribution
+
+Shows distribution of Race
+![Education vs Income](image3.png)
+
+---
+
+### 2. 📚 Education Level vs Income
 
 Shows distribution of income brackets across different education levels.
 
-![Education vs Income](images/education_income.png)
+![Education vs Income](education_income.png)
 
 ---
 
